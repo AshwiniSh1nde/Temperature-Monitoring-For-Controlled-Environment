@@ -1,3 +1,9 @@
+/*
+  Project: Temperature Monitoring for Controlled Environment
+  Author: Ashwini Shinde
+*/
+
+
 // Libraries
 #include <Wire.h>
 #include <Keypad.h>
